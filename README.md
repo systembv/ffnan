@@ -33,3 +33,12 @@ git init
 git commit -m "first commit"
 git remote add origin https://github.com/systembv/ffnan.git
 git push -u origin master
+
+# PRIMEIRO COMMIT NOVO REPOSITÓRIO
+quando já estiver clonado dar o comando:
+git remote remove origin
+
+git init
+git commit -m "first commit"
+git remote add origin https://github.com/systembv/ffnan.git
+git push -u origin master
