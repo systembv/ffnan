@@ -23,3 +23,13 @@
 	> inserir import 'react-native-gesture-handler';
 
 	# npm install @react-native-async-storage/async-storage
+
+
+# BAIXAR VIA GITHUB
+git clone https://github.com/systembv/ffnan.git
+
+# FAZENDO PRIMEIRO COMMIT
+git init
+git commit -m "first commit"
+git remote add origin https://github.com/systembv/ffnan.git
+git push -u origin master
